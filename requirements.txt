@@ -1,0 +1,14 @@
+pandas
+scrapy
+beautifulsoup4
+ipykernel
+spacy
+networkX
+pyviz
+nltk
+transformers      
+seaborn
+matplotlib
+numpy
+pyct
+spacy-transformers
